@@ -5,14 +5,18 @@ In the twenty-first century, human resources plays a critical role in assisting 
 
 ### Background of Analysis
 This research was performed on the HR Analytics dataset, which is a popular dataset on the internet.
-I received this dataset from a video I saw on the Data with Decision YouTube channel where the teacher was attempting to work with it, and I thought it was nice enough to do my analysis on it as well.
+I received this dataset from a video I saw on the [Data with Decision YouTube channel](https://www.youtube.com/c/DatawithDecision) where the teacher was attempting to work with it, and I thought it was nice enough to do my analysis on it as well.
 
-### Key Business Question:
-1. What is the gender equality distribution among employee?
-2. How many employers are satisfied with their jobs?
-3. How much experience do employers have?
-4. What is their job level?
-5. How many departments does they have? And how many employers will retire from those department?
+### Data Analysis Process
+Before analysing a dataset, there are various procedures you must take in order to make informed conclusions, and some of the processes I took were:
+* Data Overview
+* Data Preparation
+* Data Visualization
+* Insights and Recommendations
+
+### Data Overview
+This is an important step because it enables you to really have an understanding of your dataset before going into analysis with visualization to avoid mistakes.
+
 
 This is a multi page Human Resource Dashboard.
 
@@ -22,4 +26,12 @@ This is a multi page Human Resource Dashboard.
 
 #### Detail
 ![Screenshot (188)](https://user-images.githubusercontent.com/104266403/207305758-0cecb5dc-167a-427a-b78c-16491e311dad.png)
+
+### Key Business Question:
+1. What is the gender equality distribution among employee?
+2. How many employers are satisfied with their jobs?
+3. How much experience do employers have?
+4. What is their job level?
+5. How many departments does they have? And how many employers will retire from those department?
+
 
