@@ -3,6 +3,10 @@
 Human resources (HR) is the department of a company that is in charge of discovering, screening, recruiting, and training job candidates. It also handles employee-benefit programmes.
 In the twenty-first century, human resources plays a critical role in assisting businesses in dealing with a rapidly changing business climate and a higher demand for quality people.
 
+### Background of Analysis
+This research was performed on the HR Analytics dataset, which is a popular dataset on the internet.
+I received this dataset from a video I saw on the Data with Decision YouTube channel where the teacher was attempting to work with it, and I thought it was nice enough to do my analysis on it as well.
+
 ### Key Business Question:
 1. What is the gender equality distribution among employee?
 2. How many employers are satisfied with their jobs?
