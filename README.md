@@ -1,5 +1,8 @@
 # HR Dashboard
 
+Human resources (HR) is the department of a company that is in charge of discovering, screening, recruiting, and training job candidates. It also handles employee-benefit programmes.
+In the twenty-first century, human resources plays a critical role in assisting businesses in dealing with a rapidly changing business climate and a higher demand for quality people.
+
 ### Key Business Question:
 1. What is the gender equality distribution among employee?
 2. How many employers are satisfied with their jobs?
@@ -8,6 +11,8 @@
 5. How many departments does they have? And how many employers will retire from those department?
 
 This is a multi page Human Resource Dashboard.
+
+
 #### Home
 ![Screenshot (191)](https://user-images.githubusercontent.com/104266403/207315129-be593ba0-a577-466b-adb4-e387c5619306.png)
 
