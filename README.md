@@ -14,12 +14,8 @@ Before analysing a dataset, there are various procedures you must take in order 
 * Data Visualization
 * Insights and Recommendations
 
-### Data Overview
-This is an important step because it enables you to really have an understanding of your dataset before going into analysis with visualization to avoid mistakes.
-
 
 This is a multi page Human Resource Dashboard.
-
 
 #### Home
 ![Screenshot (191)](https://user-images.githubusercontent.com/104266403/207315129-be593ba0-a577-466b-adb4-e387c5619306.png)
@@ -34,4 +30,11 @@ This is a multi page Human Resource Dashboard.
 4. What is their job level?
 5. How many departments does they have? And how many employers will retire from those department?
 
+### Insights 
+* The company does not have a proper arrangement of how employees should be promoted because from analysis, we can see that some employees have been in the company for too long and have never been promoted where some of them are going to be laid-off due to the number of years they've been in the company.
+* The company does not have any arrangement regarding to enable the workers retire vountarily because we can see that some of those who are to be laid-off are younger than those who are still on service which shouldn't be so.
+
+### Recommendation
+* The company should have a documented plan as to how they would be promoting their staffs; this process could be, peculiar to each department/jon role but it should be deliberated upon by the board and implemented so no one is cheated in the process of serving.
+* I would recommend that the company should set an age limit to enable people retire voluntarily and also there should be some retirement package for those who voluntarily retire from the company.
 
