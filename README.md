@@ -14,7 +14,17 @@ Before analysing a dataset, there are various procedures you must take in order 
 * Data Visualization
 * Insights and Recommendations
 
-
+### Key Business Question:
+1. How many total employers are there in the company?
+2. What is the gender equality distribution among employee?
+3. How many employers are satisfied with their jobs?
+4. How much experience do employers have?
+5. What is their job level?
+5. Mention the total percentage due for promotion and not due for promotion.
+6. Mention the total on service and retrench employers.
+6. How many departments does they have? And how many employers will retire from those department?
+7. How many employers will work overtime?
+<br/>
 This is a multi page Human Resource Dashboard.
 
 #### Home
@@ -23,12 +33,7 @@ This is a multi page Human Resource Dashboard.
 #### Detail
 ![Screenshot (188)](https://user-images.githubusercontent.com/104266403/207305758-0cecb5dc-167a-427a-b78c-16491e311dad.png)
 
-### Key Business Question:
-1. What is the gender equality distribution among employee?
-2. How many employers are satisfied with their jobs?
-3. How much experience do employers have?
-4. What is their job level?
-5. How many departments does they have? And how many employers will retire from those department?
+
 
 ### Insights 
 * The company does not have a proper arrangement of how employees should be promoted because from analysis, we can see that some employees have been in the company for too long and have never been promoted where some of them are going to be laid-off due to the number of years they've been in the company.
