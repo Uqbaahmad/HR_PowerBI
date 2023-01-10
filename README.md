@@ -40,6 +40,6 @@ This is a multi page Human Resource Dashboard.
 * The company does not have any arrangement regarding to enable the workers retire vountarily because we can see that some of those who are to be laid-off are younger than those who are still on service which shouldn't be so.
 
 ### Recommendation
-* The company should have a documented plan as to how they would be promoting their staffs; this process could be, peculiar to each department/jon role but it should be deliberated upon by the board and implemented so no one is cheated in the process of serving.
+* The company should have a documented plan as to how they would be promoting their staffs; this process could be, peculiar to each department/job role but it should be deliberated upon by the board and implemented so no one is cheated in the process of serving.
 * I would recommend that the company should set an age limit to enable people retire voluntarily and also there should be some retirement package for those who voluntarily retire from the company.
 
